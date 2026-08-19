@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:03:51.398288+09:00",
+  "generatedAt": "2026-08-20T08:48:17.508338+09:00",
   "dateKST": "2026-08-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -287,9 +287,9 @@
       "awayWins": 51,
       "awayLosses": 74,
       "homeWins": 68,
-      "homeLosses": 58,
+      "homeLosses": 59,
       "awayWinPct": 0.408,
-      "homeWinPct": 0.5397,
+      "homeWinPct": 0.5354,
       "awayStarter": "",
       "homeStarter": "Sonny Gray",
       "awayStarterStatus": "미확인",
@@ -438,9 +438,9 @@
       "awayWinPct": 0.4841,
       "homeWinPct": 0.3968,
       "awayStarter": "Joey Cantillo",
-      "homeStarter": "",
+      "homeStarter": "Tanner Gordon",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -454,10 +454,10 @@
       "home": "Arizona Diamondbacks",
       "awayWins": 60,
       "awayLosses": 66,
-      "homeWins": 66,
+      "homeWins": 67,
       "homeLosses": 61,
       "awayWinPct": 0.4762,
-      "homeWinPct": 0.5197,
+      "homeWinPct": 0.5234,
       "awayStarter": "Nick Lodolo",
       "homeStarter": "Eduardo Rodriguez",
       "awayStarterStatus": "확인완료",
@@ -501,9 +501,9 @@
       "awayWinPct": 0.4884,
       "homeWinPct": 0.5984,
       "awayStarter": "Bubba Chandler",
-      "homeStarter": "",
+      "homeStarter": "Yoshinobu Yamamoto",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -521,9 +521,9 @@
       "homeLosses": 67,
       "awayWinPct": 0.5781,
       "homeWinPct": 0.4683,
-      "awayStarter": "",
+      "awayStarter": "Matthew Boyd",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인"
     },
     {

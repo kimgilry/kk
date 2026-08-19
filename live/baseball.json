@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T02:40:28.015378+09:00",
+  "generatedAt": "2026-08-20T04:12:27.472947+09:00",
   "dateKST": "2026-08-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -102,9 +102,9 @@
       "awayWinPct": 0.3889,
       "homeWinPct": 0.4173,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Randy Dobnak",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -123,9 +123,9 @@
       "awayWinPct": 0.5873,
       "homeWinPct": 0.52,
       "awayStarter": "Grant Holmes",
-      "homeStarter": "",
+      "homeStarter": "Anthony Kay",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",
@@ -459,9 +459,9 @@
       "awayWinPct": 0.4762,
       "homeWinPct": 0.5197,
       "awayStarter": "Nick Lodolo",
-      "homeStarter": "",
+      "homeStarter": "Eduardo Rodriguez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",

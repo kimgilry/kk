@@ -1,0 +1,25 @@
+name: Baseball Live Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/20 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect pre-game baseball data
+        run: python3 collector/baseball_collector.py
+      - name: Commit live JSON
+        run: |
+          git config user.name "baseball-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add live/baseball.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update baseball pre-game data"
+          git push

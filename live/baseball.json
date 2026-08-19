@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:55:35.443464+09:00",
+  "generatedAt": "2026-08-20T07:48:14.264685+09:00",
   "dateKST": "2026-08-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -186,9 +186,9 @@
       "awayWinPct": 0.4724,
       "homeWinPct": 0.4921,
       "awayStarter": "Andrew Alvarez",
-      "homeStarter": "",
+      "homeStarter": "Jacob deGrom",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",

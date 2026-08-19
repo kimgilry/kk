@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:58:49.608058+09:00",
+  "generatedAt": "2026-08-20T06:55:35.443464+09:00",
   "dateKST": "2026-08-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -228,9 +228,9 @@
       "awayWinPct": 0.5827,
       "homeWinPct": 0.619,
       "awayStarter": "Chris Sale",
-      "homeStarter": "",
+      "homeStarter": "Jacob Misiorowski",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인"
+      "homeStarterStatus": "확인완료"
     },
     {
       "source": "MLB StatsAPI",

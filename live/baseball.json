@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:57:14.850198+09:00",
+  "generatedAt": "2026-08-21T08:00:12.197476+09:00",
   "dateKST": "2026-08-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 17
+      "startersConfirmedGames": 20
     },
     "KBO": {
       "ok": true,
@@ -257,9 +257,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "J.T. Ginn",
-      "homeStarter": "",
+      "homeStarter": "Hayden Wesneski",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -282,10 +282,10 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "awayStarter": "Reid Detmers",
+      "homeStarter": "MacKenzie Gore",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -568,9 +568,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Ryan Johnson",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -595,9 +595,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Jacob Lopez",
-      "homeStarter": "",
+      "homeStarter": "Hunter Brown",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

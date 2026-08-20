@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:58:19.938938+09:00",
+  "generatedAt": "2026-08-21T02:14:54.105046+09:00",
   "dateKST": "2026-08-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 7
+      "startersConfirmedGames": 11
     },
     "KBO": {
       "ok": true,
@@ -126,9 +126,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Logan Webb",
       "homeStarter": "Sonny Gray",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -178,9 +178,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Freddy Peralta",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -231,9 +231,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Troy Melton",
-      "homeStarter": "",
+      "homeStarter": "Noah Cameron",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -542,9 +542,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Shane McClanahan",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -647,9 +647,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Drew Anderson",
-      "homeStarter": "",
+      "homeStarter": "Michael Wacha",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -724,9 +724,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Blade Tidwell",
       "homeStarter": "Patrick Sandoval",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

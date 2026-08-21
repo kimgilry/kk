@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:54:50.991160+09:00",
+  "generatedAt": "2026-08-22T08:51:26.510017+09:00",
   "dateKST": "2026-08-22",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 20
+      "startersConfirmedGames": 22
     },
     "KBO": {
       "ok": true,
@@ -179,9 +179,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Ryan Johnson",
-      "homeStarter": "",
+      "homeStarter": "Cody Bradford",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -230,9 +230,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Christian Scott",
       "homeStarter": "Luis Castillo",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -360,9 +360,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Rhett Lowder",
       "homeStarter": "Michael Soroka",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -542,9 +542,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "Framber Valdez",
+      "awayStarter": "",
       "homeStarter": "Daniel Lynch IV",
-      "awayStarterStatus": "확인완료",
+      "awayStarterStatus": "미확인",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -594,9 +594,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Nolan McLean",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -621,9 +621,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Cal Quantrill",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

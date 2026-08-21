@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T04:08:24.441804+09:00",
+  "generatedAt": "2026-08-22T04:53:46.543356+09:00",
   "dateKST": "2026-08-22",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 18
+      "startersConfirmedGames": 20
     },
     "KBO": {
       "ok": true,
@@ -74,9 +74,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Martín Pérez",
       "homeStarter": "Logan Henderson",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -802,9 +802,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Tyler Mahle",
       "homeStarter": "Shane Drohan",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

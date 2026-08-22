@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:44:10.320951+09:00",
+  "generatedAt": "2026-08-23T07:51:08.528443+09:00",
   "dateKST": "2026-08-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 9
+      "startersConfirmedGames": 10
     },
     "KBO": {
       "ok": true,
@@ -74,9 +74,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Kyle Leahy",
       "homeStarter": "Cristopher Sánchez",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

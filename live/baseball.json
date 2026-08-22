@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:51:55.550800+09:00",
+  "generatedAt": "2026-08-23T06:44:10.320951+09:00",
   "dateKST": "2026-08-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 8
+      "startersConfirmedGames": 9
     },
     "KBO": {
       "ok": true,
@@ -90,12 +90,12 @@
       "status": "경기전",
       "away": "Toronto Blue Jays",
       "home": "New York Yankees",
-      "awayWins": 63,
+      "awayWins": 64,
       "awayLosses": 67,
       "homeWins": 73,
-      "homeLosses": 55,
-      "awayWinPct": 0.4846,
-      "homeWinPct": 0.5703,
+      "homeLosses": 56,
+      "awayWinPct": 0.4885,
+      "homeWinPct": 0.5659,
       "awayHomePct": null,
       "awayAwayPct": null,
       "homeHomePct": null,
@@ -282,9 +282,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Matt Wilkinson",
       "homeStarter": "Jake Bennett",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

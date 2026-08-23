@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T04:01:39.082942+09:00",
+  "generatedAt": "2026-08-24T04:51:34.608414+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 9
+      "startersConfirmedGames": 16
     },
     "KBO": {
       "ok": true,
@@ -179,9 +179,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Kevin Gausman",
-      "homeStarter": "",
+      "homeStarter": "Merrill Kelly",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -204,9 +204,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Braxton Ashcraft",
       "homeStarter": "Robbie Ray",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -257,9 +257,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Zack Wheeler",
-      "homeStarter": "",
+      "homeStarter": "Logan Gilbert",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -490,9 +490,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Jacob deGrom",
       "homeStarter": "Anthony Kay",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -568,10 +568,10 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "awayStarter": "Clay Holmes",
+      "homeStarter": "Brandon Pfaadt",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -594,9 +594,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Paul Skenes",
       "homeStarter": "Michael King",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -647,9 +647,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Aaron Nola",
-      "homeStarter": "",
+      "homeStarter": "George Kirby",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -672,9 +672,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Brady Singer",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

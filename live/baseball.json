@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:00:09.736464+09:00",
+  "generatedAt": "2026-08-23T19:00:11.232577+09:00",
   "dateKST": "2026-08-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -18,9 +18,9 @@
     },
     "NPB": {
       "ok": true,
-      "games": 7,
-      "completeGames": 7,
-      "startersConfirmedGames": 7
+      "games": 6,
+      "completeGames": 6,
+      "startersConfirmedGames": 6
     },
     "LivescoreBackup": {
       "ok": false,
@@ -858,33 +858,6 @@
       "homeStarter": "",
       "awayStarterStatus": "미확인",
       "homeStarterStatus": "미확인",
-      "dataComplete": true
-    },
-    {
-      "source": "NPB Official Announced Starters + Standings",
-      "league": "NPB",
-      "gamePk": "2026-08-23|18:00|요미우리|DeNA",
-      "dateKST": "2026-08-23",
-      "timeKST": "18:00",
-      "startISO": "",
-      "status": "경기전",
-      "stadium": "横 浜",
-      "away": "요미우리",
-      "home": "DeNA",
-      "awayWins": 60,
-      "awayLosses": 50,
-      "homeWins": 50,
-      "homeLosses": 58,
-      "awayWinPct": 0.545,
-      "homeWinPct": 0.463,
-      "awayHomePct": 0.5263,
-      "awayAwayPct": 0.566,
-      "homeHomePct": 0.52,
-      "homeAwayPct": 0.4138,
-      "awayStarter": "広島東洋カープ 2-3 （東京ドーム） 試合終了",
-      "homeStarter": "阪神タイガース -",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

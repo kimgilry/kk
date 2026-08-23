@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:56:20.004411+09:00",
+  "generatedAt": "2026-08-24T02:42:12.236887+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 3
+      "startersConfirmedGames": 5
     },
     "KBO": {
       "ok": true,
@@ -49,9 +49,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Drew Rasmussen",
-      "homeStarter": "",
+      "homeStarter": "Framber Valdez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -309,9 +309,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Ian Seymour",
-      "homeStarter": "",
+      "homeStarter": "Jackson Jobe",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -412,9 +412,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Seth Lugo",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

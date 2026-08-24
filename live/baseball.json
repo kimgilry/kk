@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:08:00.651423+09:00",
+  "generatedAt": "2026-08-25T02:52:44.105337+09:00",
   "dateKST": "2026-08-25",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 21
+      "startersConfirmedGames": 23
     },
     "KBO": {
       "ok": true,
@@ -413,9 +413,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Brady Singer",
-      "homeStarter": "",
+      "homeStarter": "Adrian Houser",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -491,9 +491,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Nick Lodolo",
-      "homeStarter": "",
+      "homeStarter": "Landen Roupp",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

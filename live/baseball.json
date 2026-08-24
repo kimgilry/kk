@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T08:41:58.133342+09:00",
+  "generatedAt": "2026-08-24T12:32:49.733428+09:00",
   "dateKST": "2026-08-24",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 19
+      "startersConfirmedGames": 20
     },
     "KBO": {
       "ok": true,
@@ -429,10 +429,10 @@
       "away": "Milwaukee Brewers",
       "home": "New York Mets",
       "awayWins": 81,
-      "awayLosses": 49,
+      "awayLosses": 50,
       "homeWins": 59,
       "homeLosses": 72,
-      "awayWinPct": 0.6231,
+      "awayWinPct": 0.6183,
       "homeWinPct": 0.4504,
       "awayHomePct": null,
       "awayAwayPct": null,
@@ -456,18 +456,18 @@
       "home": "Atlanta Braves",
       "awayWins": 80,
       "awayLosses": 51,
-      "homeWins": 75,
+      "homeWins": 76,
       "homeLosses": 55,
       "awayWinPct": 0.6107,
-      "homeWinPct": 0.5769,
+      "homeWinPct": 0.5802,
       "awayHomePct": null,
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Tyler Glasnow",
-      "homeStarter": "",
+      "homeStarter": "Bryce Elder",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

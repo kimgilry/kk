@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:56:24.505000+09:00",
+  "generatedAt": "2026-08-26T07:59:53.302344+09:00",
   "dateKST": "2026-08-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 22,
       "completeGames": 22,
-      "startersConfirmedGames": 15
+      "startersConfirmedGames": 16
     },
     "KBO": {
       "ok": true,
@@ -387,9 +387,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Kyle Bradish",
-      "homeStarter": "",
+      "homeStarter": "Michael McGreevy",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T05:56:58.461063+09:00",
+  "generatedAt": "2026-08-26T06:56:24.505000+09:00",
   "dateKST": "2026-08-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 22,
       "completeGames": 22,
-      "startersConfirmedGames": 14
+      "startersConfirmedGames": 15
     },
     "KBO": {
       "ok": true,
@@ -517,9 +517,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Noah Cameron",
-      "homeStarter": "",
+      "homeStarter": "Spencer Arrighetti",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

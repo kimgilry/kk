@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T07:42:28.669466+09:00",
+  "generatedAt": "2026-08-29T08:02:43.576855+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 31,
       "completeGames": 31,
-      "startersConfirmedGames": 17
+      "startersConfirmedGames": 18
     },
     "KBO": {
       "ok": true,
@@ -699,9 +699,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Kumar Rocker",
-      "homeStarter": "",
+      "homeStarter": "Dustin May",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

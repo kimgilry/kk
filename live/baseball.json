@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T11:23:01.529885+09:00",
+  "generatedAt": "2026-08-29T11:42:40.067263+09:00",
   "dateKST": "2026-08-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 31,
       "completeGames": 31,
-      "startersConfirmedGames": 21
+      "startersConfirmedGames": 22
     },
     "KBO": {
       "ok": true,
@@ -49,9 +49,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Jake Bennett",
-      "homeStarter": "",
+      "homeStarter": "Carlos Rodón",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -75,9 +75,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Max Fried",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -403,11 +403,11 @@
       "away": "Texas Rangers",
       "home": "Milwaukee Brewers",
       "awayWins": 66,
-      "awayLosses": 68,
-      "homeWins": 83,
+      "awayLosses": 69,
+      "homeWins": 84,
       "homeLosses": 51,
-      "awayWinPct": 0.4925,
-      "homeWinPct": 0.6194,
+      "awayWinPct": 0.4889,
+      "homeWinPct": 0.6222,
       "awayHomePct": null,
       "awayAwayPct": null,
       "homeHomePct": null,
@@ -689,11 +689,11 @@
       "away": "Texas Rangers",
       "home": "Milwaukee Brewers",
       "awayWins": 66,
-      "awayLosses": 68,
-      "homeWins": 83,
+      "awayLosses": 69,
+      "homeWins": 84,
       "homeLosses": 51,
-      "awayWinPct": 0.4925,
-      "homeWinPct": 0.6194,
+      "awayWinPct": 0.4889,
+      "homeWinPct": 0.6222,
       "awayHomePct": null,
       "awayAwayPct": null,
       "homeHomePct": null,

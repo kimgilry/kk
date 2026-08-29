@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T01:23:00.206631+09:00",
+  "generatedAt": "2026-08-30T01:42:39.901825+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -672,9 +672,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Elmer Rodríguez",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

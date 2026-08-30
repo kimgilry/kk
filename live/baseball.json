@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T01:42:37.676406+09:00",
+  "generatedAt": "2026-08-31T02:02:43.601899+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 27,
       "completeGames": 27,
-      "startersConfirmedGames": 6
+      "startersConfirmedGames": 7
     },
     "KBO": {
       "ok": true,
@@ -256,9 +256,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Anthony Kay",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -387,9 +387,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Paul Skenes",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -543,9 +543,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Tyler Phillips",
-      "homeStarter": "",
+      "homeStarter": "Randy Dobnak",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -620,9 +620,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Sean Burke",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

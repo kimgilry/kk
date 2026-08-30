@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T01:22:45.450532+09:00",
+  "generatedAt": "2026-08-31T01:42:37.676406+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 27,
       "completeGames": 27,
-      "startersConfirmedGames": 4
+      "startersConfirmedGames": 6
     },
     "KBO": {
       "ok": true,
@@ -101,9 +101,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Robert Stock",
-      "homeStarter": "",
+      "homeStarter": "Ian Seymour",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -413,9 +413,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Sean Manaea",
-      "homeStarter": "",
+      "homeStarter": "Freddy Peralta",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -725,9 +725,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Eric Lauer",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

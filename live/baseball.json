@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T01:02:47.615159+09:00",
+  "generatedAt": "2026-08-31T01:22:45.450532+09:00",
   "dateKST": "2026-08-31",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -127,9 +127,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Payton Tolle",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

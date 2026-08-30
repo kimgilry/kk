@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T17:02:49.803979+09:00",
+  "generatedAt": "2026-08-30T17:22:40.309810+09:00",
   "dateKST": "2026-08-30",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -18,9 +18,9 @@
     },
     "NPB": {
       "ok": true,
-      "games": 8,
-      "completeGames": 8,
-      "startersConfirmedGames": 8
+      "games": 7,
+      "completeGames": 7,
+      "startersConfirmedGames": 7
     },
     "LivescoreBackup": {
       "ok": false,
@@ -831,33 +831,6 @@
       "homeAwayPct": 0.6066,
       "awayStarter": "中日ドラゴンズ - （横 浜） 18:00",
       "homeStarter": "読売ジャイアンツ -",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료",
-      "dataComplete": true
-    },
-    {
-      "source": "NPB Official Announced Starters + Standings",
-      "league": "NPB",
-      "gamePk": "2026-08-30|17:01|니혼햄|세이부",
-      "dateKST": "2026-08-30",
-      "timeKST": "17:01",
-      "startISO": "",
-      "status": "경기전",
-      "stadium": "ベルーナ",
-      "away": "니혼햄",
-      "home": "세이부",
-      "awayWins": 66,
-      "awayLosses": 53,
-      "homeWins": 68,
-      "homeLosses": 49,
-      "awayWinPct": 0.555,
-      "homeWinPct": 0.581,
-      "awayHomePct": 0.6167,
-      "awayAwayPct": 0.4915,
-      "homeHomePct": 0.5873,
-      "homeAwayPct": 0.5741,
-      "awayStarter": "ッテマリーンズ 5-4 （エスコンＦ） 試合終了",
-      "homeStarter": "東北楽天ゴールデンイーグルス 0-0",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true

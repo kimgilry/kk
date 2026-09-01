@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T06:04:58.962140+09:00",
+  "generatedAt": "2026-09-02T06:27:00.776430+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 24,
       "completeGames": 24,
-      "startersConfirmedGames": 12
+      "startersConfirmedGames": 14
     },
     "KBO": {
       "ok": true,
@@ -231,9 +231,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Justin Hagenman",
-      "homeStarter": "",
+      "homeStarter": "Griffin Jax",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -465,9 +465,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "José Soriano",
-      "homeStarter": "",
+      "homeStarter": "Tanner Bibee",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

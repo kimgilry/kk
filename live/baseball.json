@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:45:26.845079+09:00",
+  "generatedAt": "2026-09-01T12:05:08.941877+09:00",
   "dateKST": "2026-09-01",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 21
+      "startersConfirmedGames": 22
     },
     "KBO": {
       "ok": true,
@@ -282,9 +282,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Brady Basso",
       "homeStarter": "MacKenzie Gore",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

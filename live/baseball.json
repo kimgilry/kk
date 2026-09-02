@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T02:26:13.768016+09:00",
+  "generatedAt": "2026-09-03T02:43:50.342806+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 6
+      "startersConfirmedGames": 7
     },
     "KBO": {
       "ok": true,
@@ -126,9 +126,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Jake Bennett",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -361,9 +361,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Chris Sale",
-      "homeStarter": "",
+      "homeStarter": "Cristopher Sánchez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -412,9 +412,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Ranger Suarez",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

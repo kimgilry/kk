@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T03:46:39.096523+09:00",
+  "generatedAt": "2026-09-03T04:04:32.151781+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -282,9 +282,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Keider Montero",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -308,9 +308,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Andrew Sears",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

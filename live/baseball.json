@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:07:36.630682+09:00",
+  "generatedAt": "2026-09-02T09:36:16.911348+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 24,
       "completeGames": 24,
-      "startersConfirmedGames": 15
+      "startersConfirmedGames": 16
     },
     "KBO": {
       "ok": true,
@@ -646,9 +646,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Quinn Mathews",
       "homeStarter": "Tarik Skubal",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

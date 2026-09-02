@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:42:33.647571+09:00",
+  "generatedAt": "2026-09-03T05:05:10.017557+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 7
+      "startersConfirmedGames": 9
     },
     "KBO": {
       "ok": true,
@@ -204,9 +204,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Shane McClanahan",
       "homeStarter": "Cal Quantrill",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -516,9 +516,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Nick Martinez",
       "homeStarter": "Kumar Rocker",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

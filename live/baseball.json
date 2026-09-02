@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:45:00.175592+09:00",
+  "generatedAt": "2026-09-02T13:05:11.119878+09:00",
   "dateKST": "2026-09-02",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 24,
       "completeGames": 24,
-      "startersConfirmedGames": 17
+      "startersConfirmedGames": 18
     },
     "KBO": {
       "ok": true,
@@ -360,9 +360,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Davis Martin",
       "homeStarter": "Hayden Wesneski",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

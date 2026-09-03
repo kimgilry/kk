@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:44:14.257600+09:00",
+  "generatedAt": "2026-09-04T06:05:13.852818+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 31,
       "completeGames": 31,
-      "startersConfirmedGames": 21
+      "startersConfirmedGames": 24
     },
     "KBO": {
       "ok": true,
@@ -49,9 +49,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Keider Montero",
-      "homeStarter": "",
+      "homeStarter": "Logan Allen",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -75,9 +75,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Andrew Sears",
-      "homeStarter": "",
+      "homeStarter": "Foster Griffin",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -231,9 +231,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Shota Imanaga",
-      "homeStarter": "",
+      "homeStarter": "Janson Junk",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -491,9 +491,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Ryan Gusto",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

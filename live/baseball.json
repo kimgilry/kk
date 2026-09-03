@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:47:32.451220+09:00",
+  "generatedAt": "2026-09-03T18:05:08.230735+09:00",
   "dateKST": "2026-09-03",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -816,7 +816,7 @@
       "timeKST": "18:00",
       "startISO": "",
       "status": "경기전",
-      "stadium": "バンテリン",
+      "stadium": "神 宮",
       "away": "야쿠르트",
       "home": "주니치",
       "awayWins": 53,
@@ -829,8 +829,8 @@
       "awayAwayPct": 0.4516,
       "homeHomePct": 0.5373,
       "homeAwayPct": 0.2909,
-      "awayStarter": "阪神タイガース - （神 宮） 18:00",
-      "homeStarter": "広島東洋カープ -",
+      "awayStarter": "高梨 裕稔",
+      "homeStarter": "髙橋 宏斗",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true

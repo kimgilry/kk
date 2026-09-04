@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:26:55.643021+09:00",
+  "generatedAt": "2026-09-04T14:45:19.838514+09:00",
   "dateKST": "2026-09-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 31,
       "completeGames": 31,
-      "startersConfirmedGames": 28
+      "startersConfirmedGames": 29
     },
     "KBO": {
       "ok": true,
@@ -438,9 +438,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Kade Morris",
       "homeStarter": "Logan Gilbert",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

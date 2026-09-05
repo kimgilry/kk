@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T11:44:52.079132+09:00",
+  "generatedAt": "2026-09-05T12:05:03.393010+09:00",
   "dateKST": "2026-09-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 24
+      "startersConfirmedGames": 25
     },
     "KBO": {
       "ok": true,
@@ -750,9 +750,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Gerrit Cole",
       "homeStarter": "Michael King",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

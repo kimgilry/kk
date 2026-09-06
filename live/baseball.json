@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:04:11.339702+09:00",
+  "generatedAt": "2026-09-07T04:25:01.766686+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 26,
       "completeGames": 26,
-      "startersConfirmedGames": 10
+      "startersConfirmedGames": 12
     },
     "KBO": {
       "ok": true,
@@ -309,9 +309,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Dylan Cease",
-      "homeStarter": "",
+      "homeStarter": "Jacob Lopez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -647,9 +647,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "José Soriano",
-      "homeStarter": "",
+      "homeStarter": "Jack Perkins",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

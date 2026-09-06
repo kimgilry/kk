@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:27:38.618310+09:00",
+  "generatedAt": "2026-09-06T13:44:53.806982+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 26,
       "completeGames": 26,
-      "startersConfirmedGames": 15
+      "startersConfirmedGames": 16
     },
     "KBO": {
       "ok": true,
@@ -413,9 +413,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Andrew Alvarez",
-      "homeStarter": "",
+      "homeStarter": "Justin Wrobleski",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

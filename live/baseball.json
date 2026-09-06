@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:04:57.973497+09:00",
+  "generatedAt": "2026-09-06T12:27:38.137239+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 26,
       "completeGames": 26,
-      "startersConfirmedGames": 14
+      "startersConfirmedGames": 15
     },
     "KBO": {
       "ok": true,
@@ -299,11 +299,11 @@
       "away": "St. Louis Cardinals",
       "home": "Colorado Rockies",
       "awayWins": 71,
-      "awayLosses": 71,
-      "homeWins": 54,
+      "awayLosses": 72,
+      "homeWins": 55,
       "homeLosses": 87,
-      "awayWinPct": 0.5,
-      "homeWinPct": 0.383,
+      "awayWinPct": 0.4965,
+      "homeWinPct": 0.3873,
       "awayHomePct": null,
       "awayAwayPct": null,
       "homeHomePct": null,
@@ -387,9 +387,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Bailey Ober",
-      "homeStarter": "",
+      "homeStarter": "Bryan Hudson",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -637,10 +637,10 @@
       "away": "St. Louis Cardinals",
       "home": "San Francisco Giants",
       "awayWins": 71,
-      "awayLosses": 71,
+      "awayLosses": 72,
       "homeWins": 59,
       "homeLosses": 84,
-      "awayWinPct": 0.5,
+      "awayWinPct": 0.4965,
       "homeWinPct": 0.4126,
       "awayHomePct": null,
       "awayAwayPct": null,

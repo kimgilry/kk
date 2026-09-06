@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T07:42:59.449215+09:00",
+  "generatedAt": "2026-09-07T08:04:31.580143+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 26,
       "completeGames": 26,
-      "startersConfirmedGames": 13
+      "startersConfirmedGames": 15
     },
     "KBO": {
       "ok": true,
@@ -231,9 +231,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Nick Pivetta",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -256,9 +256,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Michael McGreevy",
       "homeStarter": "Logan Webb",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -672,9 +672,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Quinn Mathews",
       "homeStarter": "Landen Roupp",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

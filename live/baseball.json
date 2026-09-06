@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T03:44:35.612192+09:00",
+  "generatedAt": "2026-09-07T04:04:11.339702+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 26,
       "completeGames": 26,
-      "startersConfirmedGames": 9
+      "startersConfirmedGames": 10
     },
     "KBO": {
       "ok": true,
@@ -464,9 +464,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Gabriel Hughes",
       "homeStarter": "Cam Schlittler",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

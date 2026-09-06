@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:44:01.493705+09:00",
+  "generatedAt": "2026-09-07T02:04:14.649804+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -465,9 +465,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Cam Schlittler",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

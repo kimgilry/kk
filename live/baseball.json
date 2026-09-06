@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:45:04.522333+09:00",
+  "generatedAt": "2026-09-06T12:04:57.973497+09:00",
   "dateKST": "2026-09-06",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 26,
       "completeGames": 26,
-      "startersConfirmedGames": 13
+      "startersConfirmedGames": 14
     },
     "KBO": {
       "ok": true,
@@ -256,9 +256,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Spencer Arrighetti",
       "homeStarter": "Randy Dobnak",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

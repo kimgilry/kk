@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T00:26:41.461927+09:00",
+  "generatedAt": "2026-09-07T00:43:45.461801+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 26,
       "completeGames": 26,
-      "startersConfirmedGames": 5
+      "startersConfirmedGames": 7
     },
     "KBO": {
       "ok": true,
@@ -100,9 +100,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Grayson Rodriguez",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -127,9 +127,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Joey Cantillo",
-      "homeStarter": "",
+      "homeStarter": "Trevor Rogers",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -205,9 +205,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Troy Melton",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -335,9 +335,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Tanner Bibee",
-      "homeStarter": "",
+      "homeStarter": "Brandon Young",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -361,9 +361,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Drew Anderson",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -438,9 +438,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Reid Detmers",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

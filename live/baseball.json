@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T09:07:52.442511+09:00",
+  "generatedAt": "2026-09-07T09:39:49.262464+09:00",
   "dateKST": "2026-09-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 26,
       "completeGames": 26,
-      "startersConfirmedGames": 16
+      "startersConfirmedGames": 17
     },
     "KBO": {
       "ok": true,
@@ -387,9 +387,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Hayden Wesneski",
-      "homeStarter": "",
+      "homeStarter": "Andrew Painter",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

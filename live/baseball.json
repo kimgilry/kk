@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T00:04:51.985374+09:00",
+  "generatedAt": "2026-09-08T00:28:43.899122+09:00",
   "dateKST": "2026-09-08",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 18
+      "startersConfirmedGames": 19
     },
     "KBO": {
       "ok": true,
@@ -205,9 +205,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Freddy Peralta",
-      "homeStarter": "",
+      "homeStarter": "AJ Smith-Shawver",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

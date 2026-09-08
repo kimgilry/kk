@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:45:00.572302+09:00",
+  "generatedAt": "2026-09-09T07:05:35.430955+09:00",
   "dateKST": "2026-09-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 20,
       "completeGames": 20,
-      "startersConfirmedGames": 11
+      "startersConfirmedGames": 13
     },
     "KBO": {
       "ok": true,
@@ -153,9 +153,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Cody Bradford",
-      "homeStarter": "",
+      "homeStarter": "Kade Anderson",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -491,9 +491,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Jacob deGrom",
-      "homeStarter": "",
+      "homeStarter": "Logan Gilbert",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

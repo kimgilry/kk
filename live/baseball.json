@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:44:42.864075+09:00",
+  "generatedAt": "2026-09-09T05:05:20.117790+09:00",
   "dateKST": "2026-09-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -152,9 +152,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Cody Bradford",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -490,9 +490,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Jacob deGrom",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

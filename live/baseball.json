@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:05:02.978827+09:00",
+  "generatedAt": "2026-09-09T18:30:23.620744+09:00",
   "dateKST": "2026-09-09",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -699,8 +699,8 @@
       "awayAwayPct": 0.5806,
       "homeHomePct": 0.431,
       "homeAwayPct": 0.4603,
-      "awayStarter": "（東京ドーム） 1回表 横浜DeNAベイスターズ",
-      "homeStarter": "浜） 1回表 阪神タイガース 広島東洋カープ -",
+      "awayStarter": "（東京ドーム） 2回表 横浜DeNAベイスターズ",
+      "homeStarter": "浜） 2回表 阪神タイガース 広島東洋カープ -",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true

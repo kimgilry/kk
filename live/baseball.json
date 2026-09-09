@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T05:45:42.650243+09:00",
+  "generatedAt": "2026-09-10T06:04:26.024310+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 20,
       "completeGames": 20,
-      "startersConfirmedGames": 6
+      "startersConfirmedGames": 7
     },
     "KBO": {
       "ok": true,
@@ -74,9 +74,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Cristian Javier",
       "homeStarter": "Zack Wheeler",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

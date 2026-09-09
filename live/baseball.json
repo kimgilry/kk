@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T01:30:47.459870+09:00",
+  "generatedAt": "2026-09-10T01:47:55.148502+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 20,
       "completeGames": 20,
-      "startersConfirmedGames": 3
+      "startersConfirmedGames": 4
     },
     "KBO": {
       "ok": true,
@@ -205,9 +205,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Framber Valdez",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -439,9 +439,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Parker Messick",
-      "homeStarter": "",
+      "homeStarter": "Taj Bradley",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

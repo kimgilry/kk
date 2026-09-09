@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:04:43.026966+09:00",
+  "generatedAt": "2026-09-10T02:28:15.923955+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -465,9 +465,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Matthew Liberatore",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

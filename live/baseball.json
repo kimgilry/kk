@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T03:32:36.042146+09:00",
+  "generatedAt": "2026-09-10T03:48:02.810701+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 20,
       "completeGames": 20,
-      "startersConfirmedGames": 4
+      "startersConfirmedGames": 5
     },
     "KBO": {
       "ok": true,
@@ -231,9 +231,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Cade Cavalli",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -543,9 +543,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Robbie Ray",
-      "homeStarter": "",
+      "homeStarter": "Anthony Molina",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

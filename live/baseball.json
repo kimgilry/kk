@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:04:47.559761+09:00",
+  "generatedAt": "2026-09-11T06:25:58.077795+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 17
+      "startersConfirmedGames": 19
     },
     "KBO": {
       "ok": true,
@@ -127,9 +127,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Nolan McLean",
-      "homeStarter": "",
+      "homeStarter": "Carlos Rodón",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -465,9 +465,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Zac Thornton",
-      "homeStarter": "",
+      "homeStarter": "Gerrit Cole",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

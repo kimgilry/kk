@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:30:07.742251+09:00",
+  "generatedAt": "2026-09-10T12:47:09.589293+09:00",
   "dateKST": "2026-09-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 20,
       "completeGames": 20,
-      "startersConfirmedGames": 8
+      "startersConfirmedGames": 10
     },
     "KBO": {
       "ok": true,
@@ -153,9 +153,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Jared Jones",
-      "homeStarter": "",
+      "homeStarter": "Hagen Smith",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -413,9 +413,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Andrew Abbott",
-      "homeStarter": "",
+      "homeStarter": "Shane Drohan",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:04:39.332243+09:00",
+  "generatedAt": "2026-09-11T05:26:57.506724+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 14
+      "startersConfirmedGames": 15
     },
     "KBO": {
       "ok": true,
@@ -204,9 +204,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Miguel Ullola",
       "homeStarter": "Drew Rasmussen",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

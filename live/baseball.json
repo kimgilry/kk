@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:48:13.419839+09:00",
+  "generatedAt": "2026-09-11T18:04:46.872073+09:00",
   "dateKST": "2026-09-11",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -18,9 +18,9 @@
     },
     "NPB": {
       "ok": true,
-      "games": 7,
-      "completeGames": 7,
-      "startersConfirmedGames": 7
+      "games": 6,
+      "completeGames": 6,
+      "startersConfirmedGames": 6
     },
     "LivescoreBackup": {
       "ok": false,
@@ -936,33 +936,6 @@
       "homeStarter": "",
       "awayStarterStatus": "미확인",
       "homeStarterStatus": "미확인",
-      "dataComplete": true
-    },
-    {
-      "source": "NPB Official Announced Starters + Standings",
-      "league": "NPB",
-      "gamePk": "2026-09-12|18:00|히로시마|오릭스",
-      "dateKST": "2026-09-12",
-      "timeKST": "18:00",
-      "startISO": "",
-      "status": "경기전",
-      "stadium": "京セラD大阪",
-      "away": "히로시마",
-      "home": "오릭스",
-      "awayWins": 50,
-      "awayLosses": 67,
-      "homeWins": 59,
-      "homeLosses": 67,
-      "awayWinPct": 0.427,
-      "homeWinPct": 0.468,
-      "awayHomePct": 0.4677,
-      "awayAwayPct": 0.3818,
-      "homeHomePct": 0.619,
-      "homeAwayPct": 0.3175,
-      "awayStarter": "DeNAベイスターズ - （マツダ） 18:00",
-      "homeStarter": "埼玉西武ライオンズ -",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:27:44.666559+09:00",
+  "generatedAt": "2026-09-12T12:45:36.946395+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 22
+      "startersConfirmedGames": 23
     },
     "KBO": {
       "ok": true,
@@ -49,9 +49,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Tanner Gordon",
-      "homeStarter": "",
+      "homeStarter": "Andrew Sears",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -127,9 +127,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Kyle Bradish",
-      "homeStarter": "",
+      "homeStarter": "Spencer Miles",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -334,9 +334,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "Jesús Luzardo",
+      "awayStarter": "",
       "homeStarter": "Tyler Mahle",
-      "awayStarterStatus": "확인완료",
+      "awayStarterStatus": "미확인",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

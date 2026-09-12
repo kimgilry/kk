@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T00:43:50.308182+09:00",
+  "generatedAt": "2026-09-13T01:05:03.003271+09:00",
   "dateKST": "2026-09-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 11
+      "startersConfirmedGames": 12
     },
     "KBO": {
       "ok": true,
@@ -490,9 +490,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Troy Melton",
       "homeStarter": "José Soriano",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

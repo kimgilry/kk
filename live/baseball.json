@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:45:36.946395+09:00",
+  "generatedAt": "2026-09-12T13:04:49.633587+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 23
+      "startersConfirmedGames": 24
     },
     "KBO": {
       "ok": true,
@@ -230,9 +230,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Daniel Espino",
       "homeStarter": "Connor Prielipp",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T09:06:49.320637+09:00",
+  "generatedAt": "2026-09-12T09:34:12.141041+09:00",
   "dateKST": "2026-09-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 21
+      "startersConfirmedGames": 22
     },
     "KBO": {
       "ok": true,
@@ -387,9 +387,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Kumar Rocker",
-      "homeStarter": "",
+      "homeStarter": "Brandon Pfaadt",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -777,9 +777,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Eduardo Rodriguez",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

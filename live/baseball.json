@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:46:27.296986+09:00",
+  "generatedAt": "2026-09-14T02:04:23.514170+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 3
+      "startersConfirmedGames": 7
     },
     "KBO": {
       "ok": true,
@@ -126,9 +126,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Brandon Young",
       "homeStarter": "Jonah Tong",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -179,9 +179,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Will Warren",
-      "homeStarter": "",
+      "homeStarter": "Dean Kremer",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -257,9 +257,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Reid Detmers",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -464,9 +464,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Shane Baz",
       "homeStarter": "Sean Manaea",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -517,9 +517,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Max Fried",
-      "homeStarter": "",
+      "homeStarter": "Bailey Ober",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -647,9 +647,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Ryan Johnson",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

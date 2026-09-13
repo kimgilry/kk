@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T02:26:20.237786+09:00",
+  "generatedAt": "2026-09-14T02:44:07.929252+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 10
+      "startersConfirmedGames": 11
     },
     "KBO": {
       "ok": true,
@@ -594,9 +594,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Michael Wacha",
       "homeStarter": "Hunter Brown",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

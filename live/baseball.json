@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T07:04:46.032085+09:00",
+  "generatedAt": "2026-09-14T07:27:28.962421+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -74,7 +74,7 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "Sean Burke",
+      "awayStarter": "Sean Newcomb",
       "homeStarter": "",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",

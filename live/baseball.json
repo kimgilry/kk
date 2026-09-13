@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T06:43:52.132564+09:00",
+  "generatedAt": "2026-09-14T07:04:46.032085+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 17
+      "startersConfirmedGames": 19
     },
     "KBO": {
       "ok": true,
@@ -204,9 +204,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Landen Roupp",
       "homeStarter": "Quinn Mathews",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -542,9 +542,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Blade Tidwell",
       "homeStarter": "Andre Pallante",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

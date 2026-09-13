@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T02:04:23.514170+09:00",
+  "generatedAt": "2026-09-14T02:26:20.237786+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 25,
       "completeGames": 25,
-      "startersConfirmedGames": 7
+      "startersConfirmedGames": 10
     },
     "KBO": {
       "ok": true,
@@ -153,9 +153,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Reynaldo López",
-      "homeStarter": "",
+      "homeStarter": "David Peterson",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -282,9 +282,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Sandy Alcantara",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -412,9 +412,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Cristopher Sánchez",
       "homeStarter": "Jackson Kent",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -491,9 +491,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Martín Pérez",
-      "homeStarter": "",
+      "homeStarter": "Kevin Gausman",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -672,9 +672,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Janson Junk",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

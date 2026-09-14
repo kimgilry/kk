@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:46:39.809086+09:00",
+  "generatedAt": "2026-09-15T07:04:51.140641+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 21
+      "startersConfirmedGames": 23
     },
     "KBO": {
       "ok": true,
@@ -127,9 +127,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Jacob Misiorowski",
-      "homeStarter": "",
+      "homeStarter": "Lake Bachar",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -516,9 +516,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Keider Montero",
       "homeStarter": "Max Scherzer",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T17:48:30.552659+09:00",
+  "generatedAt": "2026-09-14T18:06:27.284255+09:00",
   "dateKST": "2026-09-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -18,9 +18,9 @@
     },
     "NPB": {
       "ok": true,
-      "games": 7,
-      "completeGames": 7,
-      "startersConfirmedGames": 7
+      "games": 6,
+      "completeGames": 6,
+      "startersConfirmedGames": 6
     },
     "LivescoreBackup": {
       "ok": false,
@@ -806,33 +806,6 @@
       "homeStarter": "",
       "awayStarterStatus": "미확인",
       "homeStarterStatus": "미확인",
-      "dataComplete": true
-    },
-    {
-      "source": "NPB Official Announced Starters + Standings",
-      "league": "NPB",
-      "gamePk": "2026-09-15|18:00|야쿠르트|DeNA",
-      "dateKST": "2026-09-15",
-      "timeKST": "18:00",
-      "startISO": "",
-      "status": "경기전",
-      "stadium": "横 浜",
-      "away": "야쿠르트",
-      "home": "DeNA",
-      "awayWins": 56,
-      "awayLosses": 69,
-      "homeWins": 62,
-      "homeLosses": 63,
-      "awayWinPct": 0.448,
-      "homeWinPct": 0.496,
-      "awayHomePct": 0.4407,
-      "awayAwayPct": 0.4545,
-      "homeHomePct": 0.5517,
-      "homeAwayPct": 0.4478,
-      "awayStarter": "広島東洋カープ - （神 宮） 18:00",
-      "homeStarter": "読売ジャイアンツ -",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

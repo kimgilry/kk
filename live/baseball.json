@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T04:45:35.948181+09:00",
+  "generatedAt": "2026-09-15T05:05:23.572894+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 20
+      "startersConfirmedGames": 21
     },
     "KBO": {
       "ok": true,
@@ -542,9 +542,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Blake Snell",
       "homeStarter": "Andrew Abbott",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

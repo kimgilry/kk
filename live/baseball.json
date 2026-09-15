@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T07:27:06.069430+09:00",
+  "generatedAt": "2026-09-16T07:44:02.404920+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 24,
       "completeGames": 24,
-      "startersConfirmedGames": 15
+      "startersConfirmedGames": 16
     },
     "KBO": {
       "ok": true,
@@ -74,9 +74,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Anthony Molina",
       "homeStarter": "Matthew Liberatore",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

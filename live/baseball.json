@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:48:50.638265+09:00",
+  "generatedAt": "2026-09-15T12:05:41.504767+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 24
+      "startersConfirmedGames": 25
     },
     "KBO": {
       "ok": true,
@@ -179,9 +179,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Drew Anderson",
-      "homeStarter": "",
+      "homeStarter": "Braydon Fisher",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

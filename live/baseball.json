@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T06:44:22.779933+09:00",
+  "generatedAt": "2026-09-16T07:05:09.016069+09:00",
   "dateKST": "2026-09-16",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -569,9 +569,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Nolan McLean",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

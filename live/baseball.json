@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:48:50.708942+09:00",
+  "generatedAt": "2026-09-15T13:05:35.983554+09:00",
   "dateKST": "2026-09-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 25
+      "startersConfirmedGames": 26
     },
     "KBO": {
       "ok": true,
@@ -672,9 +672,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "JR Ritchie",
       "homeStarter": "Shota Imanaga",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

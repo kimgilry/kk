@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:28:50.267370+09:00",
+  "generatedAt": "2026-09-17T05:46:58.338669+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 24,
       "completeGames": 24,
-      "startersConfirmedGames": 4
+      "startersConfirmedGames": 5
     },
     "KBO": {
       "ok": true,
@@ -178,9 +178,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Aaron Nola",
       "homeStarter": "Nolan McLean",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -535,9 +535,9 @@
       "awayWins": 71,
       "awayLosses": 81,
       "homeWins": 75,
-      "homeLosses": 77,
+      "homeLosses": 78,
       "awayWinPct": 0.4671,
-      "homeWinPct": 0.4934,
+      "homeWinPct": 0.4902,
       "awayHomePct": null,
       "awayAwayPct": null,
       "homeHomePct": null,
@@ -636,11 +636,11 @@
       "status": "경기전",
       "away": "San Francisco Giants",
       "home": "Los Angeles Dodgers",
-      "awayWins": 63,
+      "awayWins": 64,
       "awayLosses": 89,
       "homeWins": 92,
       "homeLosses": 59,
-      "awayWinPct": 0.4145,
+      "awayWinPct": 0.4183,
       "homeWinPct": 0.6093,
       "awayHomePct": null,
       "awayAwayPct": null,

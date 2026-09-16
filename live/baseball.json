@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T08:26:57.984460+09:00",
+  "generatedAt": "2026-09-17T08:44:03.955607+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 24,
       "completeGames": 24,
-      "startersConfirmedGames": 5
+      "startersConfirmedGames": 7
     },
     "KBO": {
       "ok": true,
@@ -257,9 +257,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Taj Bradley",
-      "homeStarter": "",
+      "homeStarter": "Walbert Ureña",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -569,9 +569,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Connor Prielipp",
-      "homeStarter": "",
+      "homeStarter": "Grayson Rodriguez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

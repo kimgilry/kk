@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:05:26.921603+09:00",
+  "generatedAt": "2026-09-17T05:28:50.267370+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 24,
       "completeGames": 24,
-      "startersConfirmedGames": 3
+      "startersConfirmedGames": 4
     },
     "KBO": {
       "ok": true,
@@ -205,9 +205,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Framber Valdez",
-      "homeStarter": "",
+      "homeStarter": "Erick Fedde",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -361,9 +361,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Daniel Espino",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

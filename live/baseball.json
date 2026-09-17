@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T15:35:15.568506+09:00",
+  "generatedAt": "2026-09-17T15:51:34.958042+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 24,
       "completeGames": 24,
-      "startersConfirmedGames": 10
+      "startersConfirmedGames": 11
     },
     "KBO": {
       "ok": true,
@@ -621,9 +621,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Gerrit Cole",
-      "homeStarter": "",
+      "homeStarter": "Eduardo Rodriguez",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

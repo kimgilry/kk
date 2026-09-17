@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:06:11.632233+09:00",
+  "generatedAt": "2026-09-17T09:35:24.754958+09:00",
   "dateKST": "2026-09-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -594,9 +594,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Tyler Phillips",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

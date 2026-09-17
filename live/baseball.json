@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:05:23.014463+09:00",
+  "generatedAt": "2026-09-18T00:28:28.621226+09:00",
   "dateKST": "2026-09-18",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 9
+      "startersConfirmedGames": 10
     },
     "KBO": {
       "ok": true,
@@ -153,9 +153,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Ian Seymour",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -413,9 +413,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Cesar Perdomo",
-      "homeStarter": "",
+      "homeStarter": "Tyler Glasnow",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -465,9 +465,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Freddy Peralta",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -777,9 +777,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Tarik Skubal",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

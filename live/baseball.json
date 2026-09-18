@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T04:20:45.859988+09:00",
+  "generatedAt": "2026-09-19T06:49:02.982255+09:00",
   "dateKST": "2026-09-19",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 30,
       "completeGames": 30,
-      "startersConfirmedGames": 18
+      "startersConfirmedGames": 19
     },
     "KBO": {
       "ok": true,
@@ -49,9 +49,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Robert Gasser",
-      "homeStarter": "",
+      "homeStarter": "Trevor Rogers",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -803,9 +803,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Brandon Young",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

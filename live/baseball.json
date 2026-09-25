@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T03:38:56.904214+09:00",
+  "generatedAt": "2026-09-26T06:49:04.507378+09:00",
   "dateKST": "2026-09-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 28,
       "completeGames": 28,
-      "startersConfirmedGames": 13
+      "startersConfirmedGames": 14
     },
     "KBO": {
       "ok": true,
@@ -75,9 +75,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Rhett Lowder",
-      "homeStarter": "",
+      "homeStarter": "Trey Yesavage",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -101,7 +101,7 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Jonah Tong",
-      "homeStarter": "Jake Irvin",
+      "homeStarter": "Connelly Early",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
@@ -265,32 +265,6 @@
     {
       "source": "MLB StatsAPI",
       "league": "MLB",
-      "gamePk": "824705",
-      "dateKST": "2026-09-27",
-      "timeKST": "08:15",
-      "startISO": "2026-09-27T08:15:00+09:00",
-      "status": "경기전",
-      "away": "Chicago Cubs",
-      "home": "Boston Red Sox",
-      "awayWins": 88,
-      "awayLosses": 71,
-      "homeWins": 85,
-      "homeLosses": 74,
-      "awayWinPct": 0.5535,
-      "homeWinPct": 0.5346,
-      "awayHomePct": null,
-      "awayAwayPct": null,
-      "homeHomePct": null,
-      "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
-      "dataComplete": true
-    },
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
       "gamePk": "823407",
       "dateKST": "2026-09-27",
       "timeKST": "08:15",
@@ -390,6 +364,32 @@
       "homeStarter": "Kade Anderson",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
+      "dataComplete": true
+    },
+    {
+      "source": "MLB StatsAPI",
+      "league": "MLB",
+      "gamePk": "824705",
+      "dateKST": "2026-09-28",
+      "timeKST": "04:05",
+      "startISO": "2026-09-28T04:05:00+09:00",
+      "status": "경기전",
+      "away": "Chicago Cubs",
+      "home": "Boston Red Sox",
+      "awayWins": 88,
+      "awayLosses": 72,
+      "homeWins": 86,
+      "homeLosses": 74,
+      "awayWinPct": 0.55,
+      "homeWinPct": 0.5375,
+      "awayHomePct": null,
+      "awayAwayPct": null,
+      "homeHomePct": null,
+      "homeAwayPct": null,
+      "awayStarter": "",
+      "homeStarter": "",
+      "awayStarterStatus": "미확인",
+      "homeStarterStatus": "미확인",
       "dataComplete": true
     },
     {

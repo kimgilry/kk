@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T07:21:48.320108+09:00",
+  "generatedAt": "2026-09-29T11:15:36.829035+09:00",
   "dateKST": "2026-09-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 8,
       "completeGames": 8,
-      "startersConfirmedGames": 3
+      "startersConfirmedGames": 5
     },
     "KBO": {
       "ok": true,
@@ -74,9 +74,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Hagen Smith",
       "homeStarter": "AJ Blubaugh",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -126,9 +126,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Matthew Boyd",
       "homeStarter": "Michael King",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

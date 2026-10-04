@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:42:19.296146+09:00",
+  "generatedAt": "2026-10-05T08:44:51.227893+09:00",
   "dateKST": "2026-10-05",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 4,
       "completeGames": 4,
-      "startersConfirmedGames": 3
+      "startersConfirmedGames": 4
     },
     "KBO": {
       "ok": true,
@@ -100,10 +100,10 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "awayStarter": "Yoshinobu Yamamoto",
+      "homeStarter": "Chris Sale",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -116,10 +116,10 @@
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "San Diego Padres",
-      "awayWins": 1,
+      "awayWins": 2,
       "awayLosses": 0,
       "homeWins": 0,
-      "homeLosses": 1,
+      "homeLosses": 2,
       "awayWinPct": 1.0,
       "homeWinPct": 0.0,
       "awayHomePct": null,

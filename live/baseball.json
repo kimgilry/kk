@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:33:32.093647+09:00",
+  "generatedAt": "2026-10-07T08:14:02.193370+09:00",
   "dateKST": "2026-10-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 6,
       "completeGames": 6,
-      "startersConfirmedGames": 2
+      "startersConfirmedGames": 3
     },
     "KBO": {
       "ok": true,
@@ -48,9 +48,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Daniel Espino",
       "homeStarter": "Sean Newcomb",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

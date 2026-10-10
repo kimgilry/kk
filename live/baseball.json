@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T08:17:32.154928+09:00",
+  "generatedAt": "2026-10-10T11:23:48.636164+09:00",
   "dateKST": "2026-10-10",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -74,9 +74,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Tarik Skubal",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },

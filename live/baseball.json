@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T03:57:01.593653+09:00",
+  "generatedAt": "2026-10-12T07:39:37.900958+09:00",
   "dateKST": "2026-10-12",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 3,
       "completeGames": 3,
-      "startersConfirmedGames": 1
+      "startersConfirmedGames": 2
     },
     "KBO": {
       "ok": true,
@@ -74,9 +74,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Foster Griffin",
       "homeStarter": "Drew Rasmussen",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },

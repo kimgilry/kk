@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T03:10:18.351541+09:00",
+  "generatedAt": "2026-10-13T09:44:05.326236+09:00",
   "dateKST": "2026-10-13",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 2,
       "completeGames": 2,
-      "startersConfirmedGames": 0
+      "startersConfirmedGames": 1
     },
     "KBO": {
       "ok": true,
@@ -48,10 +48,10 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "awayStarter": "Parker Messick",
+      "homeStarter": "Freddy Peralta",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {
@@ -64,10 +64,10 @@
       "status": "경기전",
       "away": "Milwaukee Brewers",
       "home": "Los Angeles Dodgers",
-      "awayWins": 1,
+      "awayWins": 2,
       "awayLosses": 0,
       "homeWins": 0,
-      "homeLosses": 1,
+      "homeLosses": 2,
       "awayWinPct": 1.0,
       "homeWinPct": 0.0,
       "awayHomePct": null,

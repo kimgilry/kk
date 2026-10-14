@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:05:33.947185+09:00",
+  "generatedAt": "2026-10-15T07:18:47.156641+09:00",
   "dateKST": "2026-10-15",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 4,
       "completeGames": 4,
-      "startersConfirmedGames": 0
+      "startersConfirmedGames": 1
     },
     "KBO": {
       "ok": true,
@@ -49,9 +49,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "Griffin Jax",
-      "homeStarter": "",
+      "homeStarter": "Gavin Williams",
       "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

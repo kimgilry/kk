@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T18:55:11.406230+09:00",
+  "generatedAt": "2026-10-14T23:48:02.194837+09:00",
   "dateKST": "2026-10-14",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -18,9 +18,9 @@
     },
     "NPB": {
       "ok": true,
-      "games": 1,
-      "completeGames": 1,
-      "startersConfirmedGames": 1
+      "games": 2,
+      "completeGames": 2,
+      "startersConfirmedGames": 2
     },
     "LivescoreBackup": {
       "ok": false,
@@ -155,6 +155,33 @@
       "homeAwayPct": 0.4507,
       "awayStarter": "髙橋 遥人",
       "homeStarter": "尾形 崇斗",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료",
+      "dataComplete": true
+    },
+    {
+      "source": "NPB Official Announced Starters + Standings",
+      "league": "NPB",
+      "gamePk": "2026-10-15|18:00|소프트뱅크|니혼햄",
+      "dateKST": "2026-10-15",
+      "timeKST": "18:00",
+      "startISO": "",
+      "status": "경기전",
+      "stadium": "みずほPayPay",
+      "away": "소프트뱅크",
+      "home": "니혼햄",
+      "awayWins": 91,
+      "awayLosses": 49,
+      "homeWins": 78,
+      "homeLosses": 62,
+      "awayWinPct": 0.65,
+      "homeWinPct": 0.557,
+      "awayHomePct": 0.6806,
+      "awayAwayPct": 0.6176,
+      "homeHomePct": 0.6,
+      "homeAwayPct": 0.5143,
+      "awayStarter": "上沢 直之",
+      "homeStarter": "北山 亘基",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true

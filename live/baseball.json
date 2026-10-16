@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T22:30:15.105344+09:00",
-  "dateKST": "2026-10-16",
+  "generatedAt": "2026-10-17T02:40:08.339336+09:00",
+  "dateKST": "2026-10-17",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 2,
-      "completeGames": 2,
+      "games": 1,
+      "completeGames": 1,
       "startersConfirmedGames": 0
     },
     "KBO": {
@@ -28,32 +28,6 @@
     }
   },
   "games": [
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849817",
-      "dateKST": "2026-10-17",
-      "timeKST": "09:00",
-      "startISO": "2026-10-17T09:00:00+09:00",
-      "status": "경기전",
-      "away": "Tampa Bay Rays",
-      "home": "Cleveland Guardians",
-      "awayWins": 1,
-      "awayLosses": 2,
-      "homeWins": 2,
-      "homeLosses": 1,
-      "awayWinPct": 0.3333,
-      "homeWinPct": 0.6667,
-      "awayHomePct": null,
-      "awayAwayPct": null,
-      "homeHomePct": null,
-      "homeAwayPct": null,
-      "awayStarter": "Nick Martinez",
-      "homeStarter": "",
-      "awayStarterStatus": "확인완료",
-      "homeStarterStatus": "미확인",
-      "dataComplete": true
-    },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",

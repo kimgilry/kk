@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T17:03:28.094299+09:00",
-  "dateKST": "2026-10-19",
+  "generatedAt": "2026-10-20T00:39:01.355885+09:00",
+  "dateKST": "2026-10-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 2,
-      "completeGames": 2,
+      "games": 1,
+      "completeGames": 1,
       "startersConfirmedGames": 0
     },
     "KBO": {
@@ -28,32 +28,6 @@
     }
   },
   "games": [
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849815",
-      "dateKST": "2026-10-20",
-      "timeKST": "09:08",
-      "startISO": "2026-10-20T09:08:00+09:00",
-      "status": "경기전",
-      "away": "Cleveland Guardians",
-      "home": "Tampa Bay Rays",
-      "awayWins": 2,
-      "awayLosses": 3,
-      "homeWins": 3,
-      "homeLosses": 2,
-      "awayWinPct": 0.4,
-      "homeWinPct": 0.6,
-      "awayHomePct": null,
-      "awayAwayPct": null,
-      "homeHomePct": null,
-      "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "Freddy Peralta",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "확인완료",
-      "dataComplete": true
-    },
     {
       "source": "MLB StatsAPI",
       "league": "MLB",

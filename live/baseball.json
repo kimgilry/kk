@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-20T09:02:47.979073+09:00",
+  "generatedAt": "2026-10-20T13:54:40.814549+09:00",
   "dateKST": "2026-10-20",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 1,
-      "completeGames": 1,
+      "games": 0,
+      "completeGames": 0,
       "startersConfirmedGames": 0
     },
     "KBO": {
@@ -28,32 +28,6 @@
     }
   },
   "games": [
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849814",
-      "dateKST": "2026-10-21",
-      "timeKST": "09:08",
-      "startISO": "2026-10-21T09:08:00+09:00",
-      "status": "경기전",
-      "away": "Cleveland Guardians",
-      "home": "Tampa Bay Rays",
-      "awayWins": 2,
-      "awayLosses": 3,
-      "homeWins": 3,
-      "homeLosses": 2,
-      "awayWinPct": 0.4,
-      "homeWinPct": 0.6,
-      "awayHomePct": null,
-      "awayAwayPct": null,
-      "homeHomePct": null,
-      "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
-      "dataComplete": true
-    },
     {
       "source": "KBO Official",
       "league": "KBO",

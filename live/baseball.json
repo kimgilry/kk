@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T23:35:06.493653+09:00",
-  "dateKST": "2026-10-20",
+  "generatedAt": "2026-10-21T03:41:00.584451+09:00",
+  "dateKST": "2026-10-21",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -12,8 +12,8 @@
     },
     "KBO": {
       "ok": true,
-      "games": 1,
-      "completeGames": 1,
+      "games": 0,
+      "completeGames": 0,
       "startersConfirmedGames": 0
     },
     "NPB": {
@@ -27,32 +27,5 @@
       "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   },
-  "games": [
-    {
-      "source": "KBO Official",
-      "league": "KBO",
-      "gamePk": "2026-10-20|18:30|KIA|LG",
-      "dateKST": "2026-10-20",
-      "timeKST": "18:30",
-      "startISO": "",
-      "status": "경기전",
-      "away": "KIA",
-      "home": "LG",
-      "awayWins": 79,
-      "awayLosses": 63,
-      "homeWins": 78,
-      "homeLosses": 65,
-      "awayWinPct": 0.556,
-      "homeWinPct": 0.545,
-      "awayHomePct": 0.5915,
-      "awayAwayPct": 0.5211,
-      "homeHomePct": 0.5753,
-      "homeAwayPct": 0.5143,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
-      "dataComplete": true
-    }
-  ]
+  "games": []
 }

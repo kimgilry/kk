@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:17:53.963468+09:00",
+  "generatedAt": "2026-10-22T04:20:42.684425+09:00",
   "dateKST": "2026-10-22",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -50,9 +50,9 @@
       "homeHomePct": null,
       "homeAwayPct": null,
       "awayStarter": "",
-      "homeStarter": "",
+      "homeStarter": "Jacob Misiorowski",
       "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     }
   ]

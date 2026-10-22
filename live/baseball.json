@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:16:35.193013+09:00",
+  "generatedAt": "2026-10-23T08:26:07.848710+09:00",
   "dateKST": "2026-10-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 2,
       "completeGames": 2,
-      "startersConfirmedGames": 0
+      "startersConfirmedGames": 2
     },
     "KBO": {
       "ok": true,
@@ -49,9 +49,9 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Nick Martinez",
       "homeStarter": "Jacob Misiorowski",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
@@ -75,10 +75,10 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "awayStarter": "Drew Rasmussen",
+      "homeStarter": "Logan Henderson",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     }
   ]

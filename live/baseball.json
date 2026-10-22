@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T20:57:11.930351+09:00",
-  "dateKST": "2026-10-22",
+  "generatedAt": "2026-10-23T01:37:20.887962+09:00",
+  "dateKST": "2026-10-23",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 1,
-      "completeGames": 1,
+      "games": 2,
+      "completeGames": 2,
       "startersConfirmedGames": 0
     },
     "KBO": {
@@ -53,6 +53,32 @@
       "homeStarter": "Jacob Misiorowski",
       "awayStarterStatus": "미확인",
       "homeStarterStatus": "확인완료",
+      "dataComplete": true
+    },
+    {
+      "source": "MLB StatsAPI",
+      "league": "MLB",
+      "gamePk": "849802",
+      "dateKST": "2026-10-25",
+      "timeKST": "09:00",
+      "startISO": "2026-10-25T09:00:00+09:00",
+      "status": "경기전",
+      "away": "Tampa Bay Rays",
+      "home": "Milwaukee Brewers",
+      "awayWins": 0,
+      "awayLosses": 0,
+      "homeWins": 0,
+      "homeLosses": 0,
+      "awayWinPct": 0.5,
+      "homeWinPct": 0.5,
+      "awayHomePct": null,
+      "awayAwayPct": null,
+      "homeHomePct": null,
+      "homeAwayPct": null,
+      "awayStarter": "",
+      "homeStarter": "",
+      "awayStarterStatus": "미확인",
+      "homeStarterStatus": "미확인",
       "dataComplete": true
     }
   ]

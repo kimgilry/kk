@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:07:41.913439+09:00",
+  "generatedAt": "2026-10-25T03:10:57.232893+09:00",
   "dateKST": "2026-10-25",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -8,7 +8,7 @@
       "ok": true,
       "games": 1,
       "completeGames": 1,
-      "startersConfirmedGames": 0
+      "startersConfirmedGames": 1
     },
     "KBO": {
       "ok": true,
@@ -49,10 +49,10 @@
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
+      "awayStarter": "Robert Gasser",
+      "homeStarter": "Freddy Peralta",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     },
     {

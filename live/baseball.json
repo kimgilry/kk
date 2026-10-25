@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-25T23:24:12.617383+09:00",
-  "dateKST": "2026-10-25",
+  "generatedAt": "2026-10-26T02:48:53.725725+09:00",
+  "dateKST": "2026-10-26",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 1,
-      "completeGames": 1,
+      "games": 2,
+      "completeGames": 2,
       "startersConfirmedGames": 1
     },
     "KBO": {
@@ -53,6 +53,32 @@
       "homeStarter": "Freddy Peralta",
       "awayStarterStatus": "확인완료",
       "homeStarterStatus": "확인완료",
+      "dataComplete": true
+    },
+    {
+      "source": "MLB StatsAPI",
+      "league": "MLB",
+      "gamePk": "849803",
+      "dateKST": "2026-10-28",
+      "timeKST": "09:00",
+      "startISO": "2026-10-28T09:00:00+09:00",
+      "status": "경기전",
+      "away": "Milwaukee Brewers",
+      "home": "Tampa Bay Rays",
+      "awayWins": 2,
+      "awayLosses": 0,
+      "homeWins": 0,
+      "homeLosses": 2,
+      "awayWinPct": 1.0,
+      "homeWinPct": 0.0,
+      "awayHomePct": null,
+      "awayAwayPct": null,
+      "homeHomePct": null,
+      "homeAwayPct": null,
+      "awayStarter": "",
+      "homeStarter": "",
+      "awayStarterStatus": "미확인",
+      "homeStarterStatus": "미확인",
       "dataComplete": true
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:26:20.525089+09:00",
+  "generatedAt": "2026-10-28T16:19:49.783694+09:00",
   "dateKST": "2026-10-28",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
@@ -17,11 +17,10 @@
       "startersConfirmedGames": 0
     },
     "NPB": {
-      "ok": false,
-      "games": 0,
-      "completeGames": 0,
-      "startersConfirmedGames": 0,
-      "error": "URLError: <urlopen error timed out>"
+      "ok": true,
+      "games": 1,
+      "completeGames": 1,
+      "startersConfirmedGames": 1
     },
     "LivescoreBackup": {
       "ok": false,
@@ -40,18 +39,18 @@
       "away": "Milwaukee Brewers",
       "home": "Tampa Bay Rays",
       "awayWins": 3,
-      "awayLosses": 0,
-      "homeWins": 0,
+      "awayLosses": 1,
+      "homeWins": 1,
       "homeLosses": 3,
-      "awayWinPct": 1.0,
-      "homeWinPct": 0.0,
+      "awayWinPct": 0.75,
+      "homeWinPct": 0.25,
       "awayHomePct": null,
       "awayAwayPct": null,
       "homeHomePct": null,
       "homeAwayPct": null,
-      "awayStarter": "",
+      "awayStarter": "Jacob Misiorowski",
       "homeStarter": "",
-      "awayStarterStatus": "미확인",
+      "awayStarterStatus": "확인완료",
       "homeStarterStatus": "미확인",
       "dataComplete": true
     },
@@ -105,6 +104,33 @@
       "homeStarter": "",
       "awayStarterStatus": "미확인",
       "homeStarterStatus": "미확인",
+      "dataComplete": true
+    },
+    {
+      "source": "NPB Official Announced Starters + Standings",
+      "league": "NPB",
+      "gamePk": "2026-10-28|18:00|소프트뱅크|DeNA",
+      "dateKST": "2026-10-28",
+      "timeKST": "18:00",
+      "startISO": "",
+      "status": "경기전",
+      "stadium": "みずほPayPay",
+      "away": "소프트뱅크",
+      "home": "DeNA",
+      "awayWins": 91,
+      "awayLosses": 49,
+      "homeWins": 71,
+      "homeLosses": 69,
+      "awayWinPct": 0.65,
+      "homeWinPct": 0.507,
+      "awayHomePct": 0.6806,
+      "awayAwayPct": 0.6176,
+      "homeHomePct": 0.5652,
+      "homeAwayPct": 0.4507,
+      "awayStarter": "前田 悠伍",
+      "homeStarter": "平良 拳太郎",
+      "awayStarterStatus": "확인완료",
+      "homeStarterStatus": "확인완료",
       "dataComplete": true
     }
   ]

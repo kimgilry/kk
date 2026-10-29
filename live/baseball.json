@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T11:47:11.092998+09:00",
+  "generatedAt": "2026-10-29T18:09:20.601583+09:00",
   "dateKST": "2026-10-29",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
     "MLB": {
       "ok": true,
-      "games": 1,
-      "completeGames": 1,
+      "games": 0,
+      "completeGames": 0,
       "startersConfirmedGames": 0
     },
     "KBO": {
@@ -28,32 +28,6 @@
     }
   },
   "games": [
-    {
-      "source": "MLB StatsAPI",
-      "league": "MLB",
-      "gamePk": "849801",
-      "dateKST": "2026-10-31",
-      "timeKST": "09:00",
-      "startISO": "2026-10-31T09:00:00+09:00",
-      "status": "경기전",
-      "away": "Tampa Bay Rays",
-      "home": "Milwaukee Brewers",
-      "awayWins": 1,
-      "awayLosses": 3,
-      "homeWins": 3,
-      "homeLosses": 1,
-      "awayWinPct": 0.25,
-      "homeWinPct": 0.75,
-      "awayHomePct": null,
-      "awayAwayPct": null,
-      "homeHomePct": null,
-      "homeAwayPct": null,
-      "awayStarter": "",
-      "homeStarter": "",
-      "awayStarterStatus": "미확인",
-      "homeStarterStatus": "미확인",
-      "dataComplete": true
-    },
     {
       "source": "KBO Official",
       "league": "KBO",

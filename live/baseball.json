@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T17:51:39.639336+09:00",
-  "dateKST": "2026-11-03",
+  "generatedAt": "2026-11-04T01:44:50.540159+09:00",
+  "dateKST": "2026-11-04",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -31,8 +31,8 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "2026-11-03|18:30|KT|SAMSUNG",
-      "dateKST": "2026-11-03",
+      "gamePk": "2026-11-04|18:30|KT|SAMSUNG",
+      "dateKST": "2026-11-04",
       "timeKST": "18:30",
       "startISO": "",
       "status": "경기전",
@@ -57,8 +57,8 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "2026-11-03|18:30|SAMSUNG|KT",
-      "dateKST": "2026-11-03",
+      "gamePk": "2026-11-04|18:30|SAMSUNG|KT",
+      "dateKST": "2026-11-04",
       "timeKST": "18:30",
       "startISO": "",
       "status": "경기전",

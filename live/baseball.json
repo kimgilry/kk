@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T20:28:07.396909+09:00",
-  "dateKST": "2026-11-06",
+  "generatedAt": "2026-11-07T03:22:15.358731+09:00",
+  "dateKST": "2026-11-07",
   "mode": "PRE_GAME_ONLY",
   "oddsUsedForAnalysis": false,
   "sources": {
@@ -12,8 +12,8 @@
     },
     "KBO": {
       "ok": true,
-      "games": 1,
-      "completeGames": 1,
+      "games": 2,
+      "completeGames": 2,
       "startersConfirmedGames": 0
     },
     "NPB": {
@@ -31,9 +31,35 @@
     {
       "source": "KBO Official",
       "league": "KBO",
-      "gamePk": "2026-11-06|18:30|KT|SAMSUNG",
-      "dateKST": "2026-11-06",
-      "timeKST": "18:30",
+      "gamePk": "2026-11-07|14:00|SAMSUNG|KT",
+      "dateKST": "2026-11-07",
+      "timeKST": "14:00",
+      "startISO": "",
+      "status": "경기전",
+      "away": "SAMSUNG",
+      "home": "KT",
+      "awayWins": 83,
+      "awayLosses": 58,
+      "homeWins": 90,
+      "homeLosses": 49,
+      "awayWinPct": 0.589,
+      "homeWinPct": 0.647,
+      "awayHomePct": 0.5972,
+      "awayAwayPct": 0.5797,
+      "homeHomePct": 0.6522,
+      "homeAwayPct": 0.6429,
+      "awayStarter": "",
+      "homeStarter": "",
+      "awayStarterStatus": "미확인",
+      "homeStarterStatus": "미확인",
+      "dataComplete": true
+    },
+    {
+      "source": "KBO Official",
+      "league": "KBO",
+      "gamePk": "2026-11-07|14:00|KT|SAMSUNG",
+      "dateKST": "2026-11-07",
+      "timeKST": "14:00",
       "startISO": "",
       "status": "경기전",
       "away": "KT",
